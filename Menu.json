@@ -5,33 +5,74 @@
         "no": 1,
         "name": "KFC Bucket 9",
         "deskripsi": "isi 9 potong ayam",
-        "harga": "12.000",
+        "harga": "1.000",
         "Poster": "https://kfcku.com/uploads/media/food-menu/spesial/thumbnail/kfc-web_9-pcs-bucket_hcc_t.png"
         
       },
       {
         "id": 2,
         "no": 2,
-        "name": "Ayam Takol Keju",
-        "deskripsi": "Ayam, Tahu, Tempe, Kol Goreng, Keju",
-        "harga": "17.000",
-        "Poster": "https://lh3.googleusercontent.com/proxy/Qvgt05tdTkcb9GtxBdgqPxGJo_ZO-zJpkQezcQcdF04sULFt9hXAElkRqNxJqYIUmLVO2H7mIeNd_ezuszwZ2wiv-ckexPZLomQj_iGLWzz6oQhxwOgBV2YL"
+        "name": "KFC Super Family",
+        "deskripsi": "9 Potong ayam, 3 Coca-Cola, 3 Nasi",
+        "harga": "2.000",
+        "Poster": "https://kfcku.com/uploads/media/food-menu/spesial/thumbnail/kfc-web_super-family_hcc_t.png"
       },
-      
       {
         "id": 3,
         "no": 3,
-        "name": "Nugget",
-        "deskripsi": "Nugget Goreng",
-        "harga": "15.000",
-        "Poster": "https://www.resepmami.info/wp-content/uploads/2019/03/cara-membuat-nugget-ayam.jpg"
+        "name": "Fish Fillet Combo",
+        "deskripsi": "Burger ikan, Coca-Cola, Kentang Goreng",
+        "harga": "3.000",
+        "Poster": "https://kfcku.com/uploads/media/food-menu/drinks/thumbnail/kfc-web_ovaltine_t.png"      
       },
       {
         "id": 4,
         "no": 4,
-        "name": "Es Teh Manis",
-        "deskripsi": "Teh, Gula",
+        "name": "Crispy Box",
+        "deskripsi": "Ayam Crispy, Nasi, Susu Coklat",
         "harga": "4.000",
-        "Poster": ""      }
+        "Poster": "https://kfcku.com/uploads/media/food-menu/kombo/thumbnail/kfc-web_crispy-box_t.png"      
+      },
+        {
+        "id": 5,
+        "no": 5,
+        "name": "Winggers Combo",
+        "deskripsi": "2 sayap ayam crispy, nasi, coca-cola",
+        "harga": "5.000",
+        "Poster": "https://kfcku.com/uploads/media/food-menu/kombo/thumbnail/kfc-web_combo-winger_t.png"      
+      },
+        {
+        "id": 6,
+        "no": 6,
+        "name": "Super Mantap",
+        "deskripsi": "paha ayam crispy, nasi, coca-cola",
+        "harga": "6.000",
+        "Poster": "https://kfcku.com/uploads/media/food-menu/kombo/thumbnail/kfc-web_super-mantap_t.png"      
+      },
+        {
+        "id": 7,
+        "no": 7,
+        "name": "Super Besar",
+        "deskripsi": "paha ayam crispy, dada ayam crispy, nasi, coca-cola",
+        "harga": "7.000",
+        "Poster": "https://kfcku.com/uploads/media/food-menu/kombo/thumbnail/kfc-web_super-besar2_t.png"      
+      },
+        
+        {
+        "id": 8,
+        "no": 8,
+        "name": "Choconut Sundae",
+        "deskripsi": "Es Krim Vanilla, Susu Coklat, Kacang ",
+        "harga": "3.000",
+        "Poster": "https://kfcku.com/uploads/media/food-menu/sides/thumbnail/kfc-web_sundae_t.png"
+      },
+      {
+        "id": 9,
+        "no": 9,
+        "name": "Ovaltine",
+        "deskripsi": "Susu Coklat Kemasanan Kotak",
+        "harga": "2.000",
+        "Poster": "https://kfcku.com/uploads/media/food-menu/drinks/thumbnail/kfc-web_ovaltine_t.png"      
+      },
     ]
 }
